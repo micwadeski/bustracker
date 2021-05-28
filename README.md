@@ -2,11 +2,9 @@
 
 ![Bus Tracker](https://images.unsplash.com/photo-1621439101174-d7259a365d77?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80)
 
-This is an exercise designed to show the bus route stops between the MIT and Harvard campuses.
-
 ## Description
 
-This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to use MapBox and The City of Boston bus stop data to show where the bus stops are located between MIT and Harvard using animated location markers.
+This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to use MapBox and data from The City of Boston to show where the bus stops are located between MIT and Harvard using animated location markers.
 
 ## Installation
 
