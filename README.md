@@ -1,22 +1,20 @@
-# Pacman Factory
+# Bus Tracker
 
 ![Bus Tracker](https://images.unsplash.com/photo-1621439101174-d7259a365d77?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80)
 
-This is an exercise designed to create Pacmen and send them through digital time and space at random directions and velocities.
+This is an exercise designed to show the bus route stops between the MIT and Harvard campuses.
 
 ## Description
 
-This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to simulate an incredibly simplified version of the Pacman arcade game using HTML, CSS, JavaScript, array manipulation and DOM manipulation.
+This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to use MapBox and The City of Boston bus stop data to show where the bus stops are located between MIT and Harvard using animated location markers.
 
 ## Installation
 
-Click the green "Code" button and download the .zip folder containing the repo to your local machine. Once it is downloaded, expand the folder and double click the index.html file to open it up in your default browser.
+Click the green "Code" button and download the .zip folder containing the repo to your local machine. Once it is downloaded, expand the folder and double click the index.html file to open it up in your default browser. You just have to make sure that all files are downloaded and placed within the same folder in order for the index.html file to work.
 
 ## Usage
 
-When you click the "Add PacMan" button, a new pacman should appear at a random position within the top left corner of the screen.
-When you click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen.
-When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
+Simply click the button at the top of the screen saying "Show stops between MIT and Harvard" and a location marker will start moving between the bus stops between the two schools.
 
 ## Support
 
@@ -24,11 +22,10 @@ I can be reached via email at micwadeski@gmail.com, or connect with me on Linked
 
 ## Roadmap
 
-* Set up a maze type environment that the pacman or pacmen can navigate through
-* Modify the styling to further resemble that 8-bit, arcade game style
-* Allow Pacman to be controlled by using the direction pad of the keyboard.
-* Create dots that pacman has to eat as he makes it through the maze.
-* At the end of the maze, have the pacman eat cherries, that cause the game to reset to a new, more difficult level.
+* Read the documentation of MapBox further and determine ways to further stylize this project.
+* Pull the data from the City of Chicago rather than Boston to better relate my current job market.
+* Make the map style different.
+* Create an input field that will allow the user to track the current location of a certain bus route.
 
 ## License Information
 
