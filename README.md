@@ -1,6 +1,6 @@
 # Pacman Factory
 
-![pacman](https://i.pinimg.com/564x/da/61/60/da61606b5c06cbac4330860b17ee6ad2.jpg)
+![Bus Tracker](https://images.unsplash.com/photo-1621439101174-d7259a365d77?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80)
 
 This is an exercise designed to create Pacmen and send them through digital time and space at random directions and velocities.
 
